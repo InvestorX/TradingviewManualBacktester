@@ -1,0 +1,19 @@
+{
+  "name": "TradingView Manual Backtester",
+  "author": "InvestorX",
+  "description": "chrome extension for TradingView",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "web_accessible_resources": ["*"],
+  "permissions": ["storage", "tabs","activeTab", "storage", "unlimitedStorage"  ],  
+  "content_scripts": [
+    {
+        "matches": ["https://jp.tradingview.com/chart/*"],
+        "css": ["tv/style.css"],
+        "js": ["js/lib/jquery.min.js","tv/script.js"],
+        "run_at": "document_end",
+        "all_frames": true
+      }
+    
+  ]
+}

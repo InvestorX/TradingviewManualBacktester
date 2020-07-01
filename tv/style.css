@@ -1,0 +1,23 @@
+﻿
+div[id*="tv-toasts"]{
+  display: inline;
+}
+
+div[class*="toast"]{
+  display: inline;
+}
+
+
+div[id*="tv-toasts"]{
+  display: none !important ;
+}
+div[class*="toast"]{
+  display: none !important ;
+}
+
+input .buybtn{
+  margin: 0 0 0 auto !important ;
+}
+input .sellbtn{
+  margin: 0 0 0 auto !important ;
+}
