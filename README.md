@@ -11,11 +11,11 @@ TradingView　BackTesterと拡張機能の導入方法について
 
 *１．まずChromeを開きます。Chromium版Edgeでも拡張機能が利用できます。
 
-*２．アドレスバーにchrome://extensions/と入力します。Edgeの方は，edge://extensions/と入力します。
+*２．アドレスバーにchrome://extensions/ と入力します。Edgeの方は，edge://extensions/ と入力します。
 
 *３．パッケージ化されていない拡張機能を読み込むを選択します。ファイルダイアログが開くので，拡張機能が入ったフォルダを選択します。
 
-*４．これで準備完了です。https://jp.tradingview.com/にアクセスし，チャートを開いて右上にBuy,Sell, AllCloseボタンが配置されていれば導入については完了です。
+*４．これで準備完了です。https://jp.tradingview.com/ にアクセスし，チャートを開いて右上にBuy,Sell, AllCloseボタンが配置されていれば導入については完了です。
 
 *５．拡張機能を消すには，さきほどの拡張機能管理画面で削除を押します。
 
